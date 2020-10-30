@@ -1,7 +1,7 @@
 {
   "name": "hello",
   "version": "0.1.0",
-  "homepage": "https://github.com/BLUE-FAT/New-GP",
+  "homepage": " https://blue-fat.github.io/New-GP",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
